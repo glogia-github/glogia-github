@@ -1,21 +1,20 @@
-🌱 Hello I'm Glogia (G-lo-gi-a). I'm a Graduate in Chemistry and this is my
-personal repository where I put some of my projects that are a litte nicer 
-(though often in progress) and some personal things like my vimrc or other 
-things that are handy to have in a cloud.
+🌱
+This is my personal repository where I put scripts and projects I am working on. 
+I usually only program in Python and bash, but I also deal with some C++, Arduino/wiring, and tcl. I fear Javascript.
 
-I'm currently only working in python,( some experience with arduino, Bash, and markdown languages).
 
-Topics I'm looking to study futher:
+Topics I'm looking to study futher (as applied in cheminformatics):
 - Data structrues 
 - Graph Theory 
 - Optimization algorithims
 - Sympy library
-- Web applications and servers for private use.
 
 📫 I'm not looking to collaborate yet, lots to work on for myself. 
 
 LinkedIn: in/gwlombardo
 <!---
-glogia-github/glogia-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hidden comments:
+upload the rDock modififications
+upload the scripts for the sigma hole calculations
+upload the scripts for xyz manipulation in ade and rdkit
 --->
