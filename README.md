@@ -11,7 +11,7 @@ Topics I'm looking to study futher (as applied in cheminformatics):
 
 📫 I'm not looking to collaborate yet, lots to work on for myself. 
 
-LinkedIn: in/gwlombardo
+LinkedIn: /in/gwlombardochimico/
 <!---
 Hidden comments:
 upload the rDock modififications
